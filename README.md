@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
   ![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=sproutedpotato&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
 </div>
 
 
