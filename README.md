@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/Blog-000?style=flat&logo=naver&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=fff"/></a>
-<img src="https://img.shields.io/badge/Blog-000?style=flat&logo=csharp&logoColor=fff"/></a>
-<img src="https://img.shields.io/badge/Blog-000?style=flat&logo=cplusplus&logoColor=fff"/></a>
-<img src="https://img.shields.io/badge/Blog-000?style=flat&logo=python&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/C#-000?style=flat&logo=csharp&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/C++-000?style=flat&logo=cplusplus&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=fff"/></a>
