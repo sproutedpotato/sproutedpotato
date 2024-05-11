@@ -3,6 +3,14 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Sprouted%20Potato.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <br>
+<h3 align="center">🎯 Hits 🎯</h3>
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsproutedpotato&count_bg=%23A29FED&title_bg=%2345CAFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
+
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 
@@ -21,7 +29,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"/></a>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=javascript&logoColor=fff"/></a>
+  <img src="https://img.shields.io/badge/Java-007396style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Verilog-F16728?style=flat&logo=vitess&logoColor=fff"/></a>
 </div>
 
@@ -31,8 +39,16 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=000"/></a>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=fff"/></a>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff"/></a>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=fff"/></a>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=adobephotoshop&logoColor=000"/></a>
+</div>
+
+<br>
+
+<h3 align="center">🪄 BaekJoon 🪄</h3>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
 </div>
