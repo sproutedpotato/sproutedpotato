@@ -2,6 +2,13 @@
   
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Sprouted%20Potato.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
+  ![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=sproutedpotato&show_icons=true&theme=radical)
+</div>
+
+
 <br>
 <h3 align="center">🎯 Hits 🎯</h3>
 
@@ -43,12 +50,4 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=adobephotoshop&logoColor=000"/></a>
-</div>
-
-<br>
-
-<h3 align="center">🪄 BaekJoon 🪄</h3>
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
 </div>
