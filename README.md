@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/Unreal Engine-000?style=flat&logo=unrealengine&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/Android Studio-000?style=flat&logo=androidstudio&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/Blender-000?style=flat&logo=blender&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/Blender-000?style=flat&logo=blender&logoColor=fff"/></a>
