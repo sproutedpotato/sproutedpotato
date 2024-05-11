@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/sproutedpotato" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/> 
 
 <a href="https://www.naver.com" target="_blank">
 <img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
