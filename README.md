@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="①버튼을 눌렀을 때 이동할 링크" target="_blank">
 
-<img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=fff"/></a>
+<img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/></a>
 <img src="https://img.shields.io/badge/Blog-000?style=flat&logo=naver&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=fff"/></a>
 <img src="https://img.shields.io/badge/C%23-000?style=flat&logo=csharp&logoColor=fff"/></a>
