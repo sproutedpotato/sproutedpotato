@@ -4,7 +4,7 @@
 
 <a href="①버튼을 눌렀을 때 이동할 링크" target="_blank">
   
-<h3 align="center">🪄 Social 🪄</h3>
+<h3 align="center">🪄 Introduce 🪄</h3>
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/></a>
