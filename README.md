@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/sproutedpotato" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=fff"/> 
 
-<a href="https://www.naver.com" target="_blank">
-<img src="https://img.shields.io/badge/Blog-000?style=flat&logo=naver&logoColor=fff"/></a>
+
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/></a>
 
