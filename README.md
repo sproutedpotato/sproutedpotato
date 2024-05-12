@@ -8,7 +8,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sproutedpotato&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sproutedpotato&theme=bear&hide_border=true&border_radius=0)](https://git.io/streak-stats)
       </td>
       <td align="center" valign="middle"> 
 </div>
