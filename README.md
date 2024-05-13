@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"/></a>
-  <img src="https://img.shields.io/badge/Java-007396style=flat&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-F7DF1E?Estyle=flat&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Verilog-F16728?style=flat&logo=vitess&logoColor=fff"/></a>
 </div>
 
