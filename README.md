@@ -13,7 +13,7 @@
       <td align="center" valign="middle"> 
 </div>
 
-
+<br>
 <br>
 <h3 align="center">🎯 Hits 🎯</h3>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=fff"/></a>
 </div>
-
+<br>
 <br>
 
 <h3 align="center">✨ Language ✨</h3>
