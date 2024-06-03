@@ -6,8 +6,11 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
 
+<br>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sproutedpotato&langs_count=8)](https://github.com/sproutedpotato/github-readme-stats)
 
+<br>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sproutedpotato&theme=bear&hide_border=true&border_radius=0)](https://git.io/streak-stats)
       </td>
