@@ -29,7 +29,7 @@
 </div>
 
 <br>
-<h3 align="center">📫Contact📫</h3>
+<h3 align="center">📫 Contact 📫</h3>
 
 <div align="center">
   <a href="https://github.com/sproutedpotato" target="_blank"><img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/></a>
