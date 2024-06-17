@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<br>
+
 <br>
 
 <h3 align="center">⌨️ Problem solving ⌨️</h3>
