@@ -24,7 +24,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">⚙️Hits ⚙️</h3>
+<h3 align="center">⚙️ Hits ⚙️</h3>
 
 <div align="center">
   
