@@ -31,8 +31,6 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsproutedpotato&count_bg=%23A29FED&title_bg=%2345CAFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 
 <div align="center">
