@@ -54,6 +54,7 @@
 </div>
 
 <br>
+<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 
