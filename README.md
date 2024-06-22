@@ -32,7 +32,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsproutedpotato&count_bg=%23A29FED&title_bg=%2345CAFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫  Contact  📫</h3>
 
 <div align="center">
   <a href="https://github.com/sproutedpotato" target="_blank"><img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/></a>
