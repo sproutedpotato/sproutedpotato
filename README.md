@@ -1,13 +1,3 @@
-<h3 align="center">
-  
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Sprouted%20Potato.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-
-<div align="center">
-
-
-<br>
-<br>
-
 <h3 align="center">⌨️  Problem solving  ⌨️</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
@@ -25,13 +15,6 @@
       <td align="center" valign="middle"> 
 </div>
 <br>
-<br>
-<h3 align="center">⚙️ Hits ⚙️</h3>
-
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsproutedpotato&count_bg=%23A29FED&title_bg=%2345CAFF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-</div>
 
 <h3 align="center">📫  Contact  📫</h3>
 
