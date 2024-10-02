@@ -1,3 +1,4 @@
+<div align="center">
 <h3 align="center">⌨️  Problem solving  ⌨️</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)
