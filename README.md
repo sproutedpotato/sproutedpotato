@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">✨  Language  ✨</h3>
+<h3 align="center">✨ Studying Language  ✨</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=fff"/></a>
