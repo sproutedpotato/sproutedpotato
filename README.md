@@ -19,7 +19,6 @@
 <div align="center">
   <a href="https://github.com/sproutedpotato" target="_blank"><img src="https://img.shields.io/badge/GitHub-fff?style=flat&logo=github&logoColor=000"/></a>
   <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=fff"/></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=fff"/></a>
 </div>
 
 <br>
