@@ -42,5 +42,4 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=fff"/></a>
-  <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=adobephotoshop&logoColor=000"/></a>
 </div>
