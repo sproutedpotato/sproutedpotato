@@ -1,5 +1,5 @@
 <div align="center">
-<h3 align="center">⌨️  Problem solving  ⌨️</h3>
+<h3 align="center"> Problem solving  </h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=braum0098)](https://solved.ac/braum0098/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sproutedpotato&langs_count=8)](https://github.com/sproutedpotato/github-readme-stats)
 
