@@ -29,6 +29,5 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=000"/></a>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=fff"/></a>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=fff"/></a>
 </div>
